@@ -1,4 +1,4 @@
-#PF Lab 03
+# PF Lab 03
 ## Monday
 *Today we are working on GITHUB*\
 **This is readme file**\
@@ -6,7 +6,7 @@
 ### Objectives
 * Create account
 * Create repo
-* Create file\
+* Create file
   ### Pending Task
   1. Repo
   2. Branches
